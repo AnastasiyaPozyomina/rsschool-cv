@@ -55,7 +55,7 @@
 
 <hr>
 
-## Пример Код:
+## Пример кода:
 
 ``` javascript
 function multiply(a, b){
