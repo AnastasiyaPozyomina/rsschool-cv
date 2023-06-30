@@ -1,38 +1,70 @@
 # Анастасия Позёмина
 
-<hr>
-<h2>Контактная информация</h2>
-<p>Местонахождение: Новосибирск, Россия</p>
-<p>Электронная почта: pozyomina@gmail.com</p>
-<p>Telegram: @AnastassiaPoz</p>
-<p><a href="https://www.linkedin.com/in/anastasiyapozyomina?trk=contact-info">LinkedIn</a></p>
+
+
+## Контактная информация
+
+***Местонахождение***: Новосибирск, Россия
+
+***Электронная почта***: pozyomina@gmail.com
+
+***Telegram***: @AnastassiaPoz
+
+[GitHub](https://github.com/AnastasiyaPozyomina)
+
+[LinkedIn](https://www.linkedin.com/in/anastasiyapozyomina?trk=contact-info)
+
 
 <hr>
-<h2>Навыки и мастерство:</h2>
-<ul>
-<li> HTML5</li>
-<li> CSS (препроцессор SCSS и framework Bootstrap)</li>
-<li> Базовый JavaScript</li>
-<li> Git</li>
-<li> React</li>
-<li> Redux</li>
-<li> Figma/Adobe Photoshop (для веб-разработки)</li>
-</ul>
+
+## Обо мне
+
+Несколько лет находясь в декрете, понравилось изучать фронтенд-разработку. 
+
+В настоящее время изучаю нативный JаvaScript, для решения задач в своем проекте [ЖБИ Россия](https://github.com/AnastasiyaPozyomina/GBI) : сортировка и фильтрация карточек товаров, пагинация страниц.
+
+Я верю,  что моя пособность учиться и приобретать новые навыки поможет мне стать опытным фронтенд-разработчиком и найти хорошую работу.
 
 <hr>
-<h2>Курсы:</h2>
-<ul>
-<li> <a href="https://htmlacademy.ru/">HTML Academy
+
+## Навыки
+- HTML5
+- CSS (препроцессор SCSS и framework Bootstrap)
+- Базовый JavaScript
+- Git
+- React
+- Redux
+- JSON
+- npm/yarn
+- Figma/Adobe Photoshop (для веб-разработки)
+
+<hr>
+
+## Курсы в веб-разработке:
+- [HTML Academy
 Курсы для новичков.
-Основы HTML и CSS. (пройдены)</a> </li>
-<li> <a href="https://www.freecodecamp.org/certification/anastasiya_pozyomina/responsive-web-design">freeCodeCamp (получен сертификат Responsive Web Design )</a> </li>
-<li><a href="https://rs.school/">Курс RS Schools "JavaScript/Front-end.Этап 0" (в процессе)</a>  </li>
-<li><a href="https://fullstackopen.com/en/">Fullstack Open (в процессе)</a>  </li>
-</ul>
+Основы HTML и CSS. (пройдены)](https://htmlacademy.ru)
+- [freeCodeCamp (получен сертификат Responsive Web Design )](https://www.freecodecamp.org/certification/anastasiya_pozyomina/responsive-web-design)
+- [Курс RS Schools "JavaScript/Front-end.Этап 0" (в процессе)](https://rs.school)
+- [Fullstack Open (в процессе)](https://fullstackopen.com/en/)
 
 <hr>
-<h2>Языки:</h2>
-<ul>
-<li> Русский - родной</li>
-<li> Английский - Pre-Intermediate</li>
-</ul>
+
+## Проект:
+- [SIXTEEN CLOTHING (REACT & REDUX)](https://github.com/AnastasiyaPozyomina/learnreact)
+
+<hr>
+
+## Пример Код:
+
+``` javascript
+function multiply(a, b){
+  return a * b;
+}
+```
+
+<hr>
+
+## Языки:
+- Русский - родной
+- Английский - Pre-Intermediate
