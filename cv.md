@@ -11,7 +11,7 @@
 <h2>Навыки и мастерство:</h2>
 <ul>
 <li> HTML5</li>
-<li> CSS/SCSS</li>
+<li> CSS (препроцессор SCSS и framework Bootstrap)</li>
 <li> Базовый JavaScript</li>
 <li> Git</li>
 <li> React</li>
