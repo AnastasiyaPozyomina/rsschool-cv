@@ -281,3 +281,8 @@ td {
 .hover-effect-btn:hover .button {
     opacity: 1;
 }
+
+code {
+    text-align: left;
+    padding: 20px;
+}
